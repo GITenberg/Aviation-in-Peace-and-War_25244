@@ -1,0 +1,27 @@
+_repo: Aviation-in-Peace-and-War_25244
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sykes, Frederick Hugh, Sir
+    birthdate: 1877
+    deathdate: 1954
+    gutenberg_agent_id: '31178'
+    url: http://www.gutenberg.org/2009/agents/31178
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2008-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25244'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aeronautics'
+- !lcc 'TL'
+title: Aviation in Peace and War
+url: http://www.gutenberg.org/ebooks/25244
